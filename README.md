@@ -1,10 +1,10 @@
 # Man vs. Keyboard: Statistical Analysis of Human Performance
 
-**Author:** [Darragh Coyle]  
+**Author:** Darragh Coyle
 **Date:** December 2025  
 **Tools:** R, Linear Regression, Bayesian Inference, Hypothesis Testing
 
-## 📄 [Download Full Statistical Report (PDF)](./Statistics_Portfolio.pdf)
+## 📄 [Download Full Statistical Report (PDF)](./report.pdf)
 
 ---
 
