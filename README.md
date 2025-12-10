@@ -1,9 +1,8 @@
 # Data Science Portfolio
 **Author:** Darragh Coyle
 **Focus:** Statistical Inference, , and Data Visualization  
-**Contact:** [Your LinkedIn Profile URL] | [Your Email]
+**Contact:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/darragh-coyle/) | [Your Email]
 
-## 📄 [Download Full Statistical Report (PDF)](./report.pdf)
 
 # ⌨️ Man vs. Keyboard: A Statistical Audit of Human Performance
 
