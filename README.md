@@ -30,3 +30,9 @@ Collect data my from day-to-day life and use statistics to gain deeper insights.
 <p align="center">
   <img src="./figures/bayesian_plot.png" alt="Bayesian Posterior Distribution" width="40%">
 </p>
+
+<p align="center">
+  <img src="./figures/linear_regression.png" alt="Bayesian Posterior Distribution" width="40%">
+</p>
+
+
