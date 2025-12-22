@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
-**Goal:**To showcase ability to understand and manipulate raw data and present insights so non-technical audiences can understand findings
+**Goal:** To showcase ability to understand and manipulate raw data and present insights so non-technical audiences can understand findings
 
 
 ---
