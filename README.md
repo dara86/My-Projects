@@ -1,4 +1,4 @@
-# Projects
+# Completed Projects
 **Author:** Darragh Coyle  
 **Contact:** [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) 
 
