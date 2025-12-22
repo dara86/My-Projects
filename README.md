@@ -1,4 +1,10 @@
-# Completed Projects
+---
+layout: page
+title: Completed Projects
+permalink: /projects/
+---
+
+
 **Author:** Darragh Coyle  
 **Contact:** [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) 
 
