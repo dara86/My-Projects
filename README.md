@@ -13,7 +13,6 @@
 
 **Goal:** To showcase ability to understand and manipulate raw data and present insights so non-technical audiences can understand the findings
 
-
 <details>
   <summary><strong>Click to expand/view report</strong></summary>
   <br>
@@ -47,15 +46,16 @@ Using <https://www.typingtest.com>, collected 30 observations over 4 weeks.
     * **Environment:** Caffeine (Y/N), Music (Y/N), Time of Day, Location (Home, Library, Cafe).
       
 <br>
-
+**Statistics Used:** Linear regression, Welch's t-test, Chi-Squared test, Fisher's Exact Test, Bayes's Theorem  
+<br>
 ### Statistics Preview
 
 
 | Question | Statistical Test | | 
 | :--- | :--- | :---| 
-| **Does practice make perfect?** | `Linear Regression` | <img src="./figures/linear_regression.png" width="80%">
-| **Does music help me focus?** | `Bayesian Inference` | <img src="./figures/bayesian_plot.png" width="80%">
-| **Does coffee increase accuracy?** | `Welchs t-test` | <img src="./figures/t-test.png" width="80%">
+| **Does practice make perfect?** | `Linear Regression` | <img src="./figures/linear_regression.png" width="100%">
+| **Does music help me focus?** | `Bayesian Inference` | <img src="./figures/bayesian_plot.png" width="100%">
+| **Does coffee increase accuracy?** | `Welchs t-test` | <img src="./figures/t-test.png" width="100%">
 
 
 
