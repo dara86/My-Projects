@@ -1,10 +1,10 @@
 
 
-Hi! 
+Hello! 
 
 My name is Darragh Coyle. I'm an aspiring data scientist currently studying MSc in Big Data at University of Stirling. This page is used to display past projects I've completed so feel free to have a look!
 
-You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) 
+You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) [Github](https://github.com/dara86)
 
 ***
 
