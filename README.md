@@ -8,6 +8,19 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) [Gith
 
 ***
 
+## Interactive Dashboard of Scottish Property Prices
+
+**Link:** [Dashboard]([./jcp_report.pdf](https://scottish-housing-dashboard.streamlit.app))
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+**Goal:** Create a ETL pipeline of government data and build an interactive dashboard designed to analyse and visualise Scottish property prices
+
+
+***
 
 ## Business Insights for Retail Company JCPenney
 
@@ -30,6 +43,8 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) [Gith
 
 </details>
 
+
+***
 
 ***
 
