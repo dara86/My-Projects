@@ -26,8 +26,9 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) [Gith
 
 **Link:** [Report + Source Code(.pdf)](./jcp_report.pdf)
 
-![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 **Goal:** To showcase ability to understand and manipulate raw data and present insights so non-technical audiences can understand the findings
 
@@ -53,7 +54,7 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) [Gith
 
 **Link:** [Report + Source Code(.pdf)](./the_stats_report.pdf)
 
-![R](https://img.shields.io/badge/Language-R-276DC3)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 
