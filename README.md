@@ -17,7 +17,7 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) [Gith
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-**Goal:** Create a ETL pipeline of government data and build an interactive dashboard designed to analyse and visualise Scottish property prices
+**Goal:** To create an ETL pipeline of UK government data and build an interactive dashboard designed to analyse and visualise Scottish property prices
 
 
 <img src="./figures/dashboard.png" width="60%">
