@@ -20,6 +20,8 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) [Gith
 **Goal:** Create a ETL pipeline of government data and build an interactive dashboard designed to analyse and visualise Scottish property prices
 
 
+<img src="./figures/dashboard.png" width="60%">
+
 ***
 
 ## Business Insights for Retail Company JCPenney
